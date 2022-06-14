@@ -1,3 +1,5 @@
+Same as https://github.com/HomoSapienLCY/Contextual_Regression
+
 # Contextual_Regression
 This project is related to paper: Contextual Regression: An Accurate and Conveniently Interpretable Nonlinear Model for Mining Discovery from Scientific Data (https://arxiv.org/abs/1710.10728), please contact chl556@ucsd.edu if you have any questions.
 
